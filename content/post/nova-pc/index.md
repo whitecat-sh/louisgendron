@@ -8,21 +8,27 @@ tags:
 ---
 
 # Nova PC
-## What was Nova PC?
-Nova PC first started out as a small 3-man business focusing mainly on custom PC building services and put a name on my own "on the side" technical support business. Our custom PC business mainly was a website where people could write us an email (to have a more detailed explanation of their build) or use the built-in Custom Computer Configurator based on WordPress (it was at the time the most cost-efficient and rapid option) that I myself set up entirely. I also had a Facebook profile where people could contact me directly to have their tech issues fixed up by me in a matter of hours. I offered an at-home technical support service, which at the time was undercutting the other companies by a MILE in terms of cost for the client.
-After this *phase* of Nova PC came the game server hosting endeavors.
+
+## Historique
+
+Nova PC a débuté comme une petite entreprise de 3 personnes se concentrant principalement sur les services d'assemblage de PC personnalisés. Nous avons donné un nom officiel à notre activité de support technique qui existait déjà « à côté ». Notre entreprise de PC personnalisés était principalement constituée d'un site web où les clients pouvaient nous écrire un email pour obtenir une explication détaillée de leur configuration, ou utiliser le Configurateur d'Ordinateur Personnalisé intégré basé sur WordPress que nous avions entièrement configuré. Nous avions également un profil Facebook où les clients pouvaient nous contacter directement pour faire réparer leurs problèmes techniques en quelques heures. Nous offrions un service de support technique à domicile qui, à l'époque, était largement moins cher que la concurrence.
+
 ![Image 1](image.png)
 
+Après cette première *phase* de Nova PC sont venus nos projets d'hébergement de serveurs de jeux.
+
 ## PlayStranded.net
-I had a Dell PowerEdge R620 which I used, at the time, as a personal homelab. Then came the idea to reuse the same infrastructure to make a profit out of it. This server had enough resources to run 3-4 servers of the game named Rust (at full capacity). I would name this branch of Nova PC "PlayStranded.net". This custom-made game server was based on LinuxGSM for simplicity and ease of use with the capabilities I had at the time. These servers had plugins and mods made to enhance the Quality of Life of the players overall while playing in these servers. It took us about a week to set up everything.
+
+Nous possédions un Dell PowerEdge R620 que nous utilisions à l'époque comme laboratoire personnel à domicile. L'idée nous est alors venue de réutiliser cette même infrastructure pour en tirer profit. Ce serveur avait suffisamment de ressources pour faire fonctionner 3-4 serveurs du jeu Rust à pleine capacité. Nous avons nommé cette branche de Nova PC "PlayStranded.net". Ces serveurs comportaient des plugins et des mods créés pour améliorer la qualité de vie globale des joueurs. Il nous a fallu environ une semaine pour tout configurer.
 
 ![Image 2](image2.png)
 
-## Game Hosting
-Then came the time to change up the Nova PC sector of activities again. I changed from a Dell PowerEdge R620 to a newer and better Cisco UCS M4.
-The game plan was to use this new server to offer a Game Server Hosting service for games such as Minecraft and similar titles. It was mostly built off of Blesta (and Stripe) for billing and user management and Pterodactyl for the actual Hosting Service. This enhanced my knowledge of Docker and led me to put everything I had in Docker containers, further enhancing my understanding of real-world technologies and virtualization techniques used in companies.
+## Hébergement de Jeux
+
+Le moment est ensuite venu de changer à nouveau le secteur d'activité de Nova PC. Nous sommes passés du Dell PowerEdge R620 à un Cisco UCS M4 plus récent et plus performant. Notre plan était d'utiliser ce nouveau serveur pour offrir un service d'hébergement de serveurs de jeux pour des titres comme Minecraft et similaires.
 
 ![Image 3](image3.svg)
 
-## The Closure of Nova PC entirely. 
-For now, Nova PC is closed indefinitely. I am currently pursuing my studies to achieve a Baccalaureate in Computer Science with the Cybersecurity specialization, and thus most of my focus is on that. 
+## Fermeture de Nova PC
+
+Pour l'instant, Nova PC est fermé indéfiniment. Nous poursuivons actuellement nos études respectives, et notre attention se porte donc principalement sur cela.
