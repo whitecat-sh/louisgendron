@@ -1,6 +1,6 @@
 ---
 title: Nova PC
-description: Detailed description of what was Nova PC.
+description: Description détaillée de ce qu'était Nova PC.
 slug: nova-pc
 date: 2025-01-06 00:00:00+0000
 tags:
