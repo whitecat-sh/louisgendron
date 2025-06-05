@@ -1,27 +1,16 @@
 ---
-title: Resume (English) 
-description: Curriculum Vitae
-slug: cv-en
+title: Resume/CV
+description: Curriculum Vitae (English)
 date: 2025-05-01 00:00:00+0000
-tags:
-    - CV
-weight: 2
 ---
-<div style="text-align: center;">
-
-# [DOWNLOAD CV](CV-Louis_Gendron-2025-EN.pdf)
-
-</div>
-
-### [info@gendronlouis.com](mailto:info@gendronlouis.com) • [438-524-5939](tel:+1-438-524-5939)
-
+# Louis Gendron
 
 ## Professional Objective
-
+---
 University student seeking full-time summer employment (30 to 40 hours/week), available every day of the week. Motivated, reliable, and ready to learn quickly.
 
 ## Education
-
+---
 **Collège Notre-Dame-de-Lourdes,** Longueuil, QC                                           *2017-2022*  
 High School Diploma (2022)  
 *Profile: Mathematics (SN), Chemistry, Physics*
@@ -35,8 +24,8 @@ Bachelor's Degree in Automated Production Engineering (in progress)
 *Program: Automated Production Engineering*
 
 ## Skills and Experience
-
-### Skills            
+---
+**Skills**                
 - **Reliable and punctual:** always present and dedicated at work  
 - **Excellent organizational skills and priority management**  
 - **Independent and resourceful:** able to follow instructions without constant supervision  
@@ -45,7 +34,7 @@ Bachelor's Degree in Automated Production Engineering (in progress)
 - **Comfortable with physical tasks** (loading, restocking, etc.)  
 - **Ability to learn new tasks quickly**
 
-### Experience
+**Experience**
 
 **Produce Clerk, Super C**                                    *2023*  
 Ensured presentation, quality, and restocking of fresh products while providing **courteous and efficient customer service** in a high-volume environment.
@@ -62,7 +51,8 @@ Responsible for digitizing and archiving children's show episodes from DVDs for 
 - Autonomous organization of testing schedule (**time management + initiative**)
 
 ## Language Skills
-
+---
+       
 * **French** - Native language  
 * **English** - Advanced intermediate  
 * **Spanish** - Beginner (very basic)

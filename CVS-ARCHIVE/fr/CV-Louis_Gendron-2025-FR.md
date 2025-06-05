@@ -1,25 +1,18 @@
 ---
-title: CV (Français) 
-description: Curriculum Vitae   
-slug: cv-fr
+title: Resume/CV
+description: Curriculum Vitae (Francais)
 date: 2025-05-01 00:00:00+0000
-tags:
-    - CV
-weight: 1
 ---
-<div style="text-align: center;">
 
-# [DOWNLOAD CV](CV-Louis_Gendron-2025-FR.pdf)
+# Louis Gendron
 
-</div>
-
-### [info@gendronlouis.com](mailto:info@gendronlouis.com) • [438-524-5939](tel:+1-438-524-5939)
-
-## Objectif professionnel  
+**Objectif professionnel**  
+---
 
 Étudiant universitaire à la recherche d’un emploi d’été à temps plein (30 à 40 heures/semaine), disponible tous les jours de la semaine. Motivé, fiable et prêt à apprendre rapidement.
 
-## Formation scolaire
+**Formation scolaire**  
+---
 
 **Collège Notre-Dame-de-Lourdes,** Longueuil, QC		                                   *2017- 2022*  
 Diplôme d’étude secondaire (2022),  
@@ -29,13 +22,14 @@ Diplôme d’étude secondaire (2022),
 Diplôme d’étude collégiale (2024),  
 *Programme: Science de la nature, Science pures et appliquées*
 
-**École de Technologie supérieure,** Montréal, QC				  *2024 \-maintenant*  
+**École de Technologie supérieure,** Montréal, QC				  *2024 \-maintenant* 
 Baccalauréat en génie de la production automatisée (en cours)  
 *Programme: Génie de la production automatisé*
 
-## Compétences et expériences
+**Compétences et expérience**   
+---
 
-### Compétences			
+**Compétences**					
 
 - **Fiable et ponctuel :** toujours présent et assidu au travail   
 - **Très bonne capacité d’organisation et gestion des priorités**   
@@ -45,28 +39,31 @@ Baccalauréat en génie de la production automatisée (en cours)
 - **À l’aise avec les tâches physiques** (chargement, réapprovisionnement, etc.)  
 - **Capacité à apprendre rapidement de nouvelles tâches**
 
-### Expériences
+**Expériences**
 
-**Commis fruit et légume, Super C**							       *2023*  
+Commis fruit et légume, Super C 							       *2023*  
 Assurer la présentation, la qualité et le réapprovisionnement des produits frais, tout en offrant un **service à la clientèle courtois et efficace** dans un environnement à haut volume.
 
-**Gestionnaire / propriétaire, Nova PC**				                                  *2023- 2024*
+Gestionnaire / propriétaire, Nova PC				                                  *2023- 2024*
 
 Gestion d'une petite entreprise émergente spécialisée sur les ordinateurs, en veillant à la **satisfaction des clients** et à la croissance de l'entreprise. 
 
-**Opérateur de numérisation (mandat contractuel), Téléfiction** 			       *2024* 
+Opérateur de numérisation (mandat contractuel), Téléfiction 			       *2024* 
 
 Responsable de la numérisation et de l’archivage d’épisodes d’émissions jeunesse à partir de DVD, dans le but de les intégrer à une base de données interne.
 
-**Projet de robot auto-équilibré (projet cheminement universitaire):** 			       *2025*
+Projet de robot auto-équilibré (projet cheminement universitaire): 			       *2025*
 
 - Collaboration en binôme : communication technique et gestion de désaccords  
 - Adaptation continue des paramètres en fonction des résultats (**résolution de problèmes \+ pensée critique**)   
 - Organisation autonome du planning de tests (**gestion du temps \+ initiative**)
 
             
-## Compétence linguistique          
+**Compétence linguistique**  
+---
 
-* **Français** -  Langue maternelle  
-* **Anglais** - Intermédiaire avancé  
-* **Espagnol** -  Débutant (très basique)
+        
+
+* **Français** \-  Langue maternelle  
+* **Anglais** \- Intermédiaire avancé  
+* **Espagnol** \-  Débutant (très basique)
