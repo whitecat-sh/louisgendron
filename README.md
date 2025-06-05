@@ -1,1 +1,1 @@
-personal website
+cv for a friend
